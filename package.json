@@ -1,0 +1,23 @@
+{
+  "name": "exo_Chaine_Alea",
+  "version": "1.0.0",
+  "description": "Exercices :",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nolan32/Exo_JS_CHAINE-ALEA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nolan32/Exo_JS_CHAINE-ALEA/issues"
+  },
+  "homepage": "https://github.com/Nolan32/Exo_JS_CHAINE-ALEA#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
